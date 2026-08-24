@@ -163,7 +163,7 @@ The platform is designed to combine structured technical knowledge with AI capab
 
 # 🏢 Professional Engineering Projects
 
-## 🎓 Desire2Learn — Learning Management System
+## 🎓 Learning Management System
 
 **Tech Stack:** `C#` `ASP.NET Core` `REST APIs` `Entity Framework Core` `Node.js` `SQL Server` `DynamoDB` `AWS` `Microservices` `Event-Driven Architecture` `GitHub Actions`
 
@@ -187,7 +187,7 @@ Developed a **C# code-generation utility that reduced development effort by appr
 
 ---
 
-## 👥 AdvancedHR — Cloud HR Platform
+## 👥 Cloud HR Platform
 
 **Tech Stack:** `C#` `ASP.NET Core` `ASP.NET MVC` `Angular` `TypeScript` `SQL Server` `Redis` `AWS` `Jenkins` `GitHub Actions` `Amazon Lex`
 
